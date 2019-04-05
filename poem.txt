@@ -1,9 +1,12 @@
-The rainbow
+The rainbow and the Unicorn
 
 the color
 red purple
 red
 green
 yellow
+unicorn
 ...
 whatever
+
+these are colors of rainbow and unicorn
