@@ -4,5 +4,6 @@ the color
 red purple
 red
 green
+yellow
 ...
 whatever
