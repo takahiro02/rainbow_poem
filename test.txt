@@ -1,5 +1,0 @@
-test a new branch test_poem.
-Check if this file vanishes when I switch to the original master branch.
-
-test if I can undo merges
-This line is added only to test_poem branch. Let's see if this line is deleted with git reset
